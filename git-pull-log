@@ -1,0 +1,62 @@
+Using default tag: latest
+latest: Pulling from yjhew/eht-demo
+a5a6f2f73cd8: Pulling fs layer
+ac84b2a6c14b: Pulling fs layer
+0a81d2343cb3: Pulling fs layer
+df8cdf1d83f4: Pulling fs layer
+9bcab7400ea7: Pulling fs layer
+45c3d0514b6d: Pulling fs layer
+566283c0b624: Pulling fs layer
+fc3998059d50: Pulling fs layer
+e0867db2dd66: Pulling fs layer
+dafbeeb421e7: Pulling fs layer
+d3a94f4e2caa: Pulling fs layer
+eca830756c34: Pulling fs layer
+df8cdf1d83f4: Waiting
+9bcab7400ea7: Waiting
+45c3d0514b6d: Waiting
+566283c0b624: Waiting
+fc3998059d50: Waiting
+e0867db2dd66: Waiting
+dafbeeb421e7: Waiting
+d3a94f4e2caa: Waiting
+eca830756c34: Waiting
+0a81d2343cb3: Verifying Checksum
+0a81d2343cb3: Download complete
+ac84b2a6c14b: Verifying Checksum
+ac84b2a6c14b: Download complete
+df8cdf1d83f4: Verifying Checksum
+df8cdf1d83f4: Download complete
+a5a6f2f73cd8: Verifying Checksum
+a5a6f2f73cd8: Download complete
+a5a6f2f73cd8: Pull complete
+ac84b2a6c14b: Pull complete
+0a81d2343cb3: Pull complete
+df8cdf1d83f4: Pull complete
+45c3d0514b6d: Verifying Checksum
+45c3d0514b6d: Download complete
+9bcab7400ea7: Verifying Checksum
+9bcab7400ea7: Download complete
+566283c0b624: Verifying Checksum
+566283c0b624: Download complete
+dafbeeb421e7: Verifying Checksum
+dafbeeb421e7: Download complete
+d3a94f4e2caa: Verifying Checksum
+d3a94f4e2caa: Download complete
+eca830756c34: Verifying Checksum
+eca830756c34: Download complete
+9bcab7400ea7: Pull complete
+e0867db2dd66: Verifying Checksum
+e0867db2dd66: Download complete
+45c3d0514b6d: Pull complete
+566283c0b624: Pull complete
+fc3998059d50: Verifying Checksum
+fc3998059d50: Download complete
+fc3998059d50: Pull complete
+e0867db2dd66: Pull complete
+dafbeeb421e7: Pull complete
+d3a94f4e2caa: Pull complete
+eca830756c34: Pull complete
+Digest: sha256:65e724772de7f267cee5f7ba00e30fe1525179d1486575fe5d64d90cdb3d6f86
+Status: Downloaded newer image for yjhew/eht-demo:latest
+docker.io/yjhew/eht-demo:latest
